@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "cool_dragon_lore",
+  "version": "1.0.0",
+  "name": "cool dragon lore",
+  "description": "This adds lore for dragons!",
+  "authors": [
+    "Drwhomust"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/project/dragon-lore",
+    "sources": ""
+  },
+  "license": "MIT License",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "xyz.drwhomust.cooldragonlore.CoolDragonLoreMod"
+    ],
+    "client": [
+      "xyz.drwhomust.cooldragonlore.CoolDragonLoreModClient"
+    ]
+  },
+  "mixins": [
+    "cool_dragon_lore.mixins.json"
+  ],
+  "accessWidener": "META-INF/cool_dragon_lore.classtweaker",
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.1.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

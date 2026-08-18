@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 537,
+      "minecraft:time_since_rest": 2545,
+      "minecraft:walk_one_cm": 2667,
+      "minecraft:total_world_time": 2667,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 92985,
+      "minecraft:sneak_time": 35,
+      "minecraft:play_time": 2545,
+      "minecraft:jump": 9,
+      "minecraft:time_since_death": 2545
+    },
+    "minecraft:used": {
+      "minecraft:redstone_lamp": 24,
+      "cool_dragon_lore:the_other_world_of_dragons": 1
+    }
+  },
+  "DataVersion": 4790
+}

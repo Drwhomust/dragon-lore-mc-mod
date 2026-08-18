@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    " a ",
+    "bcb",
+    " b "
+  ],
+  "key": {
+    "a": "#minecraft:planks",
+    "b": "minecraft:iron_block",
+    "c": "cool_dragon_lore:dragon_item"
+  },
+  "result": {
+    "id": "cool_dragon_lore:the_other_world_of_dragons",
+    "count": 1
+  }
+}

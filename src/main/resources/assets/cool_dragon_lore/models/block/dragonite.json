@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cool_dragon_lore:block/dragonore",
+    "particle": "cool_dragon_lore:block/dragonore"
+  }
+}

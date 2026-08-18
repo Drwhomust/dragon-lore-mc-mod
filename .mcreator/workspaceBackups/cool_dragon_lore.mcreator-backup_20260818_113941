@@ -1,0 +1,246 @@
+{
+  "mod_elements": [
+    {
+      "name": "TheOtherWorldOfDragons",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_other_world_of_dragons",
+      "metadata": {
+        "files": [
+          "src/main/java/xyz/drwhomust/cooldragonlore/item/TheOtherWorldOfDragonsItem.java",
+          "src/main/resources/assets/cool_dragon_lore/models/block/the_other_world_of_dragons_portal_ew.json",
+          "src/main/resources/assets/cool_dragon_lore/items/the_other_world_of_dragons.json",
+          "src/main/java/xyz/drwhomust/cooldragonlore/world/teleporter/TheOtherWorldOfDragonsPortalShape.java",
+          "src/main/resources/assets/cool_dragon_lore/blockstates/the_other_world_of_dragons_portal.json",
+          "src/main/java/xyz/drwhomust/cooldragonlore/block/TheOtherWorldOfDragonsPortalBlock.java",
+          "src/main/resources/data/cool_dragon_lore/timeline/the_other_world_of_dragons_effects.json",
+          "src/main/resources/assets/cool_dragon_lore/models/block/the_other_world_of_dragons_portal_ns.json",
+          "src/main/java/xyz/drwhomust/cooldragonlore/world/teleporter/TheOtherWorldOfDragonsTeleporter.java",
+          "src/main/resources/assets/cool_dragon_lore/models/item/the_other_world_of_dragons.json",
+          "src/main/resources/data/cool_dragon_lore/dimension_type/the_other_world_of_dragons.json",
+          "src/main/resources/data/cool_dragon_lore/dimension/the_other_world_of_dragons.json"
+        ]
+      }
+    },
+    {
+      "name": "DragonsLoreStuff",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragons_lore_stuff",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Dragonite",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragonite",
+      "metadata": {
+        "files": [
+          "src/main/java/xyz/drwhomust/cooldragonlore/block/DragoniteBlock.java",
+          "src/main/resources/assets/cool_dragon_lore/models/item/dragonite.json",
+          "src/main/resources/assets/cool_dragon_lore/items/dragonite.json",
+          "src/main/resources/data/cool_dragon_lore/loot_table/blocks/dragonite.json",
+          "src/main/resources/data/cool_dragon_lore/worldgen/placed_feature/dragonite.json",
+          "src/main/resources/data/cool_dragon_lore/worldgen/configured_feature/dragonite.json",
+          "src/main/resources/assets/cool_dragon_lore/models/block/dragonite.json",
+          "src/main/resources/assets/cool_dragon_lore/blockstates/dragonite.json"
+        ]
+      }
+    },
+    {
+      "name": "DragonItem",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_item",
+      "metadata": {
+        "files": [
+          "src/main/java/xyz/drwhomust/cooldragonlore/item/DragonItemItem.java",
+          "src/main/resources/assets/cool_dragon_lore/models/item/dragon_item.json",
+          "src/main/resources/assets/cool_dragon_lore/items/dragon_item.json"
+        ]
+      }
+    },
+    {
+      "name": "GettingDragonItem",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "getting_dragon_item",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cool_dragon_lore/recipe/getting_dragon_item.json",
+          "src/main/resources/data/cool_dragon_lore/advancement/recipes/getting_dragon_item.json"
+        ]
+      }
+    },
+    {
+      "name": "GettingWorldKey",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "getting_world_key",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cool_dragon_lore/advancement/recipes/getting_world_key.json",
+          "src/main/resources/data/cool_dragon_lore/recipe/getting_world_key.json"
+        ]
+      }
+    },
+    {
+      "name": "DragonBlocks",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_blocks",
+      "metadata": {
+        "files": [
+          "src/main/java/xyz/drwhomust/cooldragonlore/block/DragonBlocksBlock.java",
+          "src/main/resources/assets/cool_dragon_lore/models/item/dragon_blocks.json",
+          "src/main/resources/data/cool_dragon_lore/loot_table/blocks/dragon_blocks.json",
+          "src/main/resources/assets/cool_dragon_lore/models/block/dragon_blocks.json",
+          "src/main/resources/assets/cool_dragon_lore/items/dragon_blocks.json",
+          "src/main/resources/assets/cool_dragon_lore/blockstates/dragon_blocks.json"
+        ]
+      }
+    },
+    {
+      "name": "DragonBlocksRecpi",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_blocks_recpi",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cool_dragon_lore/recipe/dragon_blocks_recpi.json",
+          "src/main/resources/data/cool_dragon_lore/advancement/recipes/dragon_blocks_recpi.json"
+        ]
+      }
+    },
+    {
+      "name": "NowYouKnow",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "now_you_know",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cool_dragon_lore/advancement/now_you_know.json"
+        ]
+      }
+    },
+    {
+      "name": "DragonPeace",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_peace",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cool_dragon_lore/painting_variant/dragon_peace.json"
+        ]
+      }
+    },
+    {
+      "name": "Choas",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "choas",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/cool_dragon_lore/painting_variant/choas.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~Dragonite@CUSTOM:Dragonite"
+    ],
+    "BLOCKS:minecraft:needs_iron_tool": [
+      "~Dragonite@CUSTOM:Dragonite"
+    ],
+    "BLOCKS:minecraft:overworld_carver_replaceables": [
+      "~TheOtherWorldOfDragons@Blocks.DEEPSLATE"
+    ],
+    "PAINTING_VARIANTS:minecraft:placeable": [
+      "~Choas@CUSTOM:Choas",
+      "~DragonPeace@CUSTOM:DragonPeace"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.cool_dragon_lore.the_other_world_of_dragons": "The Other World Of Dragons Portal Igniter",
+      "item_group.cool_dragon_lore.dragons_lore_stuff": "Dragons Lore Stuff",
+      "item.cool_dragon_lore.dragonite": "Dragonite",
+      "item.cool_dragon_lore.dragon_item": "Dragon Item",
+      "item.cool_dragon_lore.dragon_blocks": "Dragon Blocks",
+      "advancements.now_you_know.descr": "Since you saw the lore. You know, You Know",
+      "advancements.now_you_know.title": "Now You Know",
+      "painting.cool_dragon_lore.dragon_peace.title": "Dragon Peace",
+      "painting.cool_dragon_lore.dragon_peace.author": "The zing",
+      "painting.cool_dragon_lore.choas.title": "Choas",
+      "painting.cool_dragon_lore.choas.author": "The zing"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/xyz/drwhomust/cooldragonlore/init/CoolDragonLoreModDimensions.java",
+      "src/main/java/xyz/drwhomust/cooldragonlore/init/CoolDragonLoreModBlocks.java",
+      "src/main/java/xyz/drwhomust/cooldragonlore/mixin/RepairItemRecipeMixin.java",
+      "src/main/java/xyz/drwhomust/cooldragonlore/mixin/ServerPlayerMixin.java",
+      "src/main/java/xyz/drwhomust/cooldragonlore/init/CoolDragonLoreModItems.java",
+      "src/main/java/xyz/drwhomust/cooldragonlore/init/CoolDragonLoreModFeatures.java",
+      "src/main/java/xyz/drwhomust/cooldragonlore/mixin/ItemStackMixin.java",
+      "src/main/java/xyz/drwhomust/cooldragonlore/mixin/BlockItemMixin.java",
+      "src/main/java/xyz/drwhomust/cooldragonlore/mixin/ExperienceOrbMixin.java",
+      "src/main/java/xyz/drwhomust/cooldragonlore/mixin/BoneMealItemMixin.java",
+      "src/main/java/xyz/drwhomust/cooldragonlore/event/BlockEvents.java",
+      "src/main/java/xyz/drwhomust/cooldragonlore/event/ItemEvents.java",
+      "src/main/java/xyz/drwhomust/cooldragonlore/mixin/PlayerMixin.java",
+      "src/main/java/xyz/drwhomust/cooldragonlore/mixin/CommandsMixin.java",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/xyz/drwhomust/cooldragonlore/CoolDragonLoreModClient.java",
+      "src/main/java/xyz/drwhomust/cooldragonlore/event/MiscEvents.java",
+      "src/main/resources/cool_dragon_lore.mixins.json",
+      "src/main/resources/META-INF/cool_dragon_lore.classtweaker",
+      "src/main/java/xyz/drwhomust/cooldragonlore/event/PlayerEvents.java",
+      "src/main/resources/fabric.mod.json",
+      "src/main/java/xyz/drwhomust/cooldragonlore/mixin/LivingEntityMixin.java",
+      "src/main/java/xyz/drwhomust/cooldragonlore/event/LivingEntityEvents.java",
+      "src/main/java/xyz/drwhomust/cooldragonlore/CoolDragonLoreMod.java",
+      "src/main/java/xyz/drwhomust/cooldragonlore/init/CoolDragonLoreModTabs.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "cool_dragon_lore",
+    "modName": "cool dragon lore",
+    "version": "1.0.0",
+    "description": "This adds lore for dragons!",
+    "author": "Drwhomust",
+    "websiteURL": "https://modrinth.com/project/dragon-lore",
+    "license": "MIT License",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-26.1.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "xyz.drwhomust.cooldragonlore"
+  },
+  "mcreatorVersion": 202600233518
+}

@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "cool_dragon_lore:the_other_world_of_dragons": 5,
+      "minecraft:obsidian": 14
+    },
+    "minecraft:custom": {
+      "minecraft:open_chest": 1,
+      "minecraft:time_since_rest": 1096,
+      "minecraft:walk_one_cm": 1106,
+      "minecraft:total_world_time": 2006,
+      "minecraft:fly_one_cm": 12646,
+      "minecraft:sneak_time": 3,
+      "minecraft:play_time": 1096,
+      "minecraft:jump": 2,
+      "minecraft:time_since_death": 1096
+    }
+  },
+  "DataVersion": 4790
+}

@@ -1,0 +1,5 @@
+/tp ~ ~ 999999
+/gamemode survival
+/gamemode creative
+/give @s minecraft:command_block
+/give @s minecraft:structure_block

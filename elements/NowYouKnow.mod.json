@@ -1,0 +1,20 @@
+{
+  "_fv": 89,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Now You Know",
+    "achievementDescription": "Since you saw the lore. You know, You Know",
+    "achievementIcon": "Items.SKULL#5",
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": true,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardXP": 100,
+    "achievementType": "goal",
+    "parent": "end/root",
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"40\" y=\"80\"><next><block type=\"entity_hurt_player\"><field name=\"sourceentity\">EntityDragon</field><field name=\"blocked\">FALSE</field><value name=\"minDamage\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value><value name=\"maxDamage\"><block type=\"math_number\"><field name=\"NUM\">5</field></block></value></block><shadow type=\"custom_trigger\"></shadow></next></block></xml>"
+  }
+}

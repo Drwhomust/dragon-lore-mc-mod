@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 5066,
+      "minecraft:walk_one_cm": 33645,
+      "minecraft:total_world_time": 6670,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 2840,
+      "minecraft:sneak_time": 55,
+      "minecraft:play_time": 5066,
+      "minecraft:jump": 16,
+      "minecraft:time_since_death": 5066
+    },
+    "minecraft:used": {
+      "minecraft:structure_block": 1,
+      "minecraft:oak_sign": 2,
+      "minecraft:oak_button": 2,
+      "minecraft:warped_nylium": 193,
+      "minecraft:command_block": 3,
+      "minecraft:debug_stick": 2
+    }
+  },
+  "DataVersion": 4790
+}

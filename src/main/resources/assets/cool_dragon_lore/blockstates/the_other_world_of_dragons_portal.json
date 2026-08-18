@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "cool_dragon_lore:block/the_other_world_of_dragons_portal_ew"
+    },
+    "axis=x": {
+      "model": "cool_dragon_lore:block/the_other_world_of_dragons_portal_ns"
+    }
+  }
+}

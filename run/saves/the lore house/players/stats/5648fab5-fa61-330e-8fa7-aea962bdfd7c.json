@@ -1,0 +1,19 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1733,
+      "minecraft:walk_one_cm": 11170,
+      "minecraft:total_world_time": 1746,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 27,
+      "minecraft:play_time": 1733,
+      "minecraft:jump": 11,
+      "minecraft:time_since_death": 1733
+    },
+    "minecraft:used": {
+      "minecraft:stripped_warped_stem": 6,
+      "minecraft:warped_planks": 50
+    }
+  },
+  "DataVersion": 4790
+}

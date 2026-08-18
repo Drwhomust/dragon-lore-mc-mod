@@ -1,0 +1,46 @@
+{
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2026-08-18 11:46:47 -0700"
+    },
+    "done": false
+  },
+  "cool_dragon_lore:recipes/getting_world_key": {
+    "criteria": {
+      "has_ingredient_0": "2026-08-18 11:44:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-08-18 11:43:46 -0700"
+    },
+    "done": true
+  },
+  "cool_dragon_lore:recipes/getting_dragon_item": {
+    "criteria": {
+      "has_ingredient_0": "2026-08-18 11:44:52 -0700"
+    },
+    "done": true
+  },
+  "cool_dragon_lore:recipes/dragon_blocks_recpi": {
+    "criteria": {
+      "has_ingredient_0": "2026-08-18 11:44:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-08-18 11:46:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2026-08-18 11:43:47 -0700",
+      "minecraft:stony_shore": "2026-08-18 11:43:54 -0700"
+    },
+    "done": false
+  },
+  "DataVersion": 4790
+}

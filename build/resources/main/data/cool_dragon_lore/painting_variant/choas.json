@@ -1,0 +1,13 @@
+{
+  "asset_id": "cool_dragon_lore:choas",
+  "height": 1,
+  "width": 1,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.cool_dragon_lore.choas.title"
+  },
+  "author": {
+    "color": "gray",
+    "translate": "painting.cool_dragon_lore.choas.author"
+  }
+}

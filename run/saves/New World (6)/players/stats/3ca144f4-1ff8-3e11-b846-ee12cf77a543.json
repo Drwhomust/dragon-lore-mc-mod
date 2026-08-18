@@ -1,0 +1,37 @@
+{
+  "stats": {
+    "minecraft:crafted": {
+      "cool_dragon_lore:dragon_item": 1
+    },
+    "minecraft:used": {
+      "cool_dragon_lore:dragon_blocks": 31,
+      "minecraft:diamond_pickaxe": 11,
+      "cool_dragon_lore:the_other_world_of_dragons": 2,
+      "minecraft:furnace": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:cobblestone": 3,
+      "cool_dragon_lore:dragonite": 8
+    },
+    "minecraft:mined": {
+      "cool_dragon_lore:dragonite": 8,
+      "minecraft:stone": 3
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 8009,
+      "minecraft:walk_one_cm": 6783,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 8009,
+      "minecraft:jump": 18,
+      "minecraft:time_since_death": 8009,
+      "minecraft:interact_with_furnace": 1,
+      "minecraft:sprint_one_cm": 2625,
+      "minecraft:total_world_time": 13679,
+      "minecraft:fly_one_cm": 185730,
+      "minecraft:walk_on_water_one_cm": 277,
+      "minecraft:crouch_one_cm": 257,
+      "minecraft:sneak_time": 607
+    }
+  },
+  "DataVersion": 4790
+}

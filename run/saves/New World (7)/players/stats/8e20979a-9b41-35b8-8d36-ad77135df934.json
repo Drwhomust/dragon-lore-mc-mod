@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:warped_roots": 2
+    },
+    "minecraft:used": {
+      "cool_dragon_lore:dragonite": 2,
+      "minecraft:elder_guardian_spawn_egg": 1,
+      "cool_dragon_lore:dragon_blocks": 17,
+      "cool_dragon_lore:the_other_world_of_dragons": 2,
+      "minecraft:squid_spawn_egg": 23
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 5169,
+      "minecraft:walk_one_cm": 5219,
+      "minecraft:total_world_time": 5189,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 44274,
+      "minecraft:mob_kills": 1,
+      "minecraft:crouch_one_cm": 241,
+      "minecraft:sneak_time": 31,
+      "minecraft:play_time": 5169,
+      "minecraft:damage_dealt": 48,
+      "minecraft:jump": 8,
+      "minecraft:time_since_death": 5169
+    }
+  },
+  "DataVersion": 4790
+}
