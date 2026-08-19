@@ -4,8 +4,6 @@ This is a minecraft mod which adds some lore to dragons.
 
 This includes a new world you can explore and new blocks and resources you can make or use
 
-check the wiki for more info about this mod
-
 this has all the source code for the mod because i am making it open for anyone
 
 to add on or just to see.
