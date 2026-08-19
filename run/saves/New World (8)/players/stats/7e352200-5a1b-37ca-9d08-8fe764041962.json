@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "cool_dragon_lore:dragon_blocks": 17,
+      "cool_dragon_lore:the_other_world_of_dragons": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 1494,
+      "minecraft:time_since_rest": 1520,
+      "minecraft:walk_one_cm": 3520,
+      "minecraft:total_world_time": 1538,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 17821,
+      "minecraft:crouch_one_cm": 14,
+      "minecraft:interact_with_lectern": 1,
+      "minecraft:sneak_time": 5,
+      "minecraft:play_time": 1520,
+      "minecraft:jump": 14,
+      "minecraft:time_since_death": 1520
+    }
+  },
+  "DataVersion": 4790
+}

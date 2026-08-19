@@ -3,3 +3,5 @@
 /gamemode creative
 /give @s minecraft:command_block
 /give @s minecraft:structure_block
+/locate structure cool_dragon_lore:lore_house
+/tp @s 16 ~ 0
