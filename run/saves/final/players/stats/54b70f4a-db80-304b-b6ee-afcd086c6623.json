@@ -1,0 +1,52 @@
+{
+  "stats": {
+    "minecraft:crafted": {
+      "cool_dragon_lore:dragon_blocks": 1,
+      "minecraft:air": 0,
+      "cool_dragon_lore:dragon_item": 11,
+      "cool_dragon_lore:the_other_world_of_dragons": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:time_since_rest": 13731,
+      "minecraft:walk_one_cm": 37409,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 969,
+      "minecraft:damage_dealt": 18,
+      "minecraft:interact_with_lectern": 1,
+      "minecraft:play_time": 13731,
+      "minecraft:jump": 144,
+      "minecraft:time_since_death": 13731,
+      "minecraft:interact_with_furnace": 6,
+      "minecraft:sprint_one_cm": 11135,
+      "minecraft:total_world_time": 16457,
+      "minecraft:fly_one_cm": 60172,
+      "minecraft:walk_on_water_one_cm": 1574,
+      "minecraft:crouch_one_cm": 57,
+      "minecraft:sneak_time": 119
+    },
+    "minecraft:mined": {
+      "minecraft:gravel": 1,
+      "cool_dragon_lore:dragonite": 11,
+      "minecraft:stone": 5,
+      "cool_dragon_lore:dragon_blocks": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:cobblestone": 4,
+      "cool_dragon_lore:dragonite": 11,
+      "minecraft:gravel": 1,
+      "cool_dragon_lore:dragon_blocks": 1
+    },
+    "minecraft:used": {
+      "cool_dragon_lore:dragon_blocks": 34,
+      "cool_dragon_lore:the_other_world_of_dragons": 2,
+      "minecraft:crafting_table": 3,
+      "minecraft:splash_potion": 1,
+      "minecraft:netherite_pickaxe": 16,
+      "minecraft:furnace": 1,
+      "minecraft:gravel": 1,
+      "minecraft:white_bed": 1
+    }
+  },
+  "DataVersion": 4790
+}

@@ -12,6 +12,7 @@
     "sources": ""
   },
   "license": "MIT License",
+  "icon": "logo.png",
   "environment": "*",
   "entrypoints": {
     "main": [

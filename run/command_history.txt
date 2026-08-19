@@ -5,3 +5,12 @@
 /give @s minecraft:structure_block
 /locate structure cool_dragon_lore:lore_house
 /tp @s 16 ~ 0
+/gamemode survival
+/gamemode creative
+/time set minecraft:night
+/locate structure cool_dragon_lore:lore_house
+/tp @s -384 ~ -48
+/gamemode survival
+/gamemode creative
+/give @p minecraft:netherite_sword[enchantments={"minecraft:sharpness":99}] 1
+/gamemode survival

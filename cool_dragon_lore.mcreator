@@ -248,6 +248,7 @@
     "websiteURL": "https://modrinth.com/project/dragon-lore",
     "license": "MIT License",
     "serverSideOnly": false,
+    "modPicture": "dragoniconmod",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
